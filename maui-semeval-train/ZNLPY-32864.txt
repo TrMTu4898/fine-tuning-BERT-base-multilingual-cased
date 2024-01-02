@@ -1,0 +1,8 @@
+Dự báo thời tiết hôm nay 24.5 cho các vùng: 
+- Hà Nội: Nhiều mây, có mưa rào và dông, nhiệt độ từ 24-32 độ C.
+- Tây Bắc Bộ: Nhiều mây, có mưa vừa đến mưa to và dông, nhiệt độ từ 20-32 độ C.
+- Đông Bắc Bộ: Nhiều mây, có mưa rào và dông, nhiệt độ từ 24-32 độ C.
+- Thanh Hóa - Thừa Thiên Huế: Nhiều mây, có mưa rào và dông vài nơi, nhiệt độ từ 25-34 độ C.
+- Đà Nẵng đến Bình Thuận: Nhiều mây, có mưa rào và dông, nhiệt độ từ 25-33 độ C.
+- Tây Nguyên: Nhiều mây, có mưa rào và dông, nhiệt độ từ 21-32 độ C.
+- Nam Bộ: Nhiều mây, có mưa rào và dông, nhiệt độ từ 23-33 độ C. Các vùng có khả năng xảy ra lốc, sét và gió giật mạnh trong mưa dông.

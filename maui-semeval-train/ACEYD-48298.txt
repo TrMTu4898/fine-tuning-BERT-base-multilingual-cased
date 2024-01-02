@@ -1,0 +1,1 @@
+NSA sử dụng phần mềm mã độc Khai thác mạng lưới máy tính (CNE) để thu thập thông tin tình báo và đột nhập dữ liệu từ hệ thống mạng lưới của đối phương. Khi máy tính bị nhiễm CNE, thông tin và dữ liệu của nó sẽ bị lấy cắp và điều khiển từ xa một cách dễ dàng và nhanh chóng.
